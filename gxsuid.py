@@ -518,7 +518,7 @@ def main():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n{'*' * 50}")
     print(f" Instagram Profile Viewer ")
-    print(f" Script iniciado em {current_time}")
+    print(f" Script started at {current_time}")
     print(f"{'*' * 50}\n")
 
     session_id = load_session_id()
