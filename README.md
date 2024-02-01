@@ -11,7 +11,7 @@ Your Session ID Instagram
 ```
 ## - Installation:
 ```
-$ git clone https://github.com/mrofcodyx/gxsuid
+$ git clone https://github.com/mrofcodyx/gxsuid.git
 $ cd gxsuid
 $ chmod +x install.sh
 $ sudo ./install.sh
