@@ -34,7 +34,7 @@ $ python3 gxsuid.py
 - 🔗https://twitter.com/mr_ofcodyx
 
 # 🤝 Partnership
-Want to partner with the Bibi-Bird project? Feel free to reach out!
+Want to partner with the gxsuid project? Feel free to reach out!
 
   partners:
 
