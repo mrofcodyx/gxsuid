@@ -2,14 +2,14 @@
 <p align="center"><img height="400" src="https://imgur.com/D7vA3aI.png"></p>
 gxsuid is a powerful tool for interacting with Instagram profiles. It offers comprehensive functionalities such as searching by user ID or username, viewing and updating data in a SQLite database, extracting profile information from Instagram, manipulating images, real-time monitoring, and recording logs.
 
-## - Prerequisites:
+## Prerequisites:
 ```
 Python 3.x installed.
 SQLite3
 Python libraries: requests, Pillow (PIL), colorama.
 Your Session ID Instagram
 ```
-## - Installation:
+## Installation:
 ```
 $ git clone https://github.com/mrofcodyx/gxsuid.git
 $ cd gxsuid
@@ -17,7 +17,7 @@ $ chmod +x install.sh
 $ sudo ./install.sh
 $ python3 gxsuid.py
 ```
-## - demonstration:
+## demonstration:
 <p align="center"><img height="500" src="fuck.gif"></p>
 
 - ## [:fire: Features :fire:](#fire-features-fire)
@@ -32,3 +32,10 @@ $ python3 gxsuid.py
 - Friendly Interface: Simple and intuitive command line interface to make the tool easier to use.
 - ## [Contact My :pushpin:](#pushpin-contact-my-pushpin) 
 - 🔗https://twitter.com/mr_ofcodyx
+
+# 🤝 Partnership
+Want to partner with the Bibi-Bird project? Feel free to reach out!
+
+  partners:
+
+-  ~ 4st3rIkxx - [0sint_Cerrado](https://github.com/4st3rIkxx/0sint_Cerrado)
